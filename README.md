@@ -1,1 +1,2 @@
-# ocridentificationnew
+# Bengali-OCR-Identification
+The primary work of the project is multi-lingual text classification from scene text images. The major problem tackled was that many languages form a part of the Indian Society and on signboards it becomes very difficult to know which language it actually is. The goal was to pass the image into an OCR reader and then use a language detection algorithm on it which would detect which language the text was written in .
